@@ -20,7 +20,7 @@ print('''
 ''')
 a = input("[?] Generate wordlist? [y/n]: ")
 if a == 'y':
-    for i in range(10000000):
+    for i in range(10000356):
         randomnumber = chr(random.randint(ord('0'), ord('9')))
         randomnumber2 = chr(random.randint(ord('0'), ord('9')))
         randomnumber3 = chr(random.randint(ord('0'), ord('9')))
