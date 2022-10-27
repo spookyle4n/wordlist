@@ -17,7 +17,7 @@ print('''
                tiktok jahsehrare
                insta: spookyle4n
 ''')
-''')
+
 a = input("[?] Generate wordlist? [y/n]: ")
 if a == 'y':
     for i in range(10000356):
